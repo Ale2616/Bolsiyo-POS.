@@ -25,4 +25,4 @@ A continuación se detalla la versión activa del sistema, sus novedades y los a
 | **Versión Actual:**<br>🟢 v6.0.0<br><br>**Fecha:**<br>Julio 2026<br><br>**Desarrollador:**<br>Ale2616 | **🚀 Nuevas Funciones [ADDED]:**<br>• Integración de tarjetas modulares interactivas.<br>• Módulo de impresión de tickets optimizado.<br>• Calculadora de margen en tiempo real.<br><br>**🔧 Correcciones [FIXED]:**<br>• Parche responsivo crítico para pantallas móviles.<br>• Optimización de reconexión automática en la base de datos. | 💻 **[Descargar para Windows (.exe)](https://github.com/Ale2616/Bolsiyo-POS/releases/latest)**<br><br>📱 **[Descargar para Android (.apk)](https://github.com/Ale2616/Bolsiyo-POS/releases/latest)** |
 
 ---
-_Desarrollado con ❤️ por Ale2616_
+_Desarrollado con ❤️ por JOSE ALEJANDRO ANTURI PEREZ
